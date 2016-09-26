@@ -1,0 +1,22 @@
+{
+  "name": "poster-shmoster",
+  "version": "0.0.1",
+  "description": "Can post something somewhere",
+  "main": "app.js",
+  "scripts": {
+  },
+  "files": [
+    "public/"
+  ],
+  "author": "Ivan Lisitskiy",
+  "license": "",
+  "devDependencies": {
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-loader": "^6.2.4",
+    "babel-core": "^6.10.4",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
